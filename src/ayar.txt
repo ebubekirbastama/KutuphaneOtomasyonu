@@ -1,0 +1,2 @@
+jdbc:mysql://localhost:3307/kutuphane?useUnicode=true&amp;amp;characterEncoding=utf8
+3310232
