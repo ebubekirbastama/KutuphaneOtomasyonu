@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Kütüphane sql veritabanı yükleniyor."
-mysql -u root -p < ./sql/kutuphane.sql 
+mysql -u root -p < ./Sqldizini/kutuphane.sql 
 echo "Kütüphane sql veritabanı yüklendi."
